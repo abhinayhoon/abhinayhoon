@@ -16,6 +16,7 @@ computer science & engineering student specializing in AI & machine learning. i 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [SignalCheck](https://github.com/abhinayhoon/signalcheck) | a compact ML data-contract checker that catches schema breaks and input drift before inference. | Python, CLI, tests, GitHub Actions |
 | [Python Roadmap](https://github.com/abhinayhoon/PythonRoadmap) | an interactive, beginner-oriented Python curriculum with explanations, examples, and progress tracking. | HTML, CSS, JavaScript |
 | [Portfolio](https://github.com/abhinayhoon/myportfolio) | my personal site, built as an interactive frontend experience and deployed on Vercel. | HTML, CSS, JavaScript |
 
