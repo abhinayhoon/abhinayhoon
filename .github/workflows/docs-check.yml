@@ -1,0 +1,25 @@
+name: Documentation checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify activity-system files
+        run: |
+          test -f README.md
+          test -f ACTIVITY_SYSTEM.md
+          test -f templates/progress-entry.md
+          test -f learning-log/2026/README.md
+          grep -q 'Automation boundary' ACTIVITY_SYSTEM.md
