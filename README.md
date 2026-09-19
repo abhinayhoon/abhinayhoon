@@ -1,6 +1,6 @@
 # Abhinay Pratap Singh
 
-Computer Science & Engineering student specializing in AI & Machine Learning. I build approachable software, learn in public, and enjoy turning complex ideas into useful tools.
+Computer Science & Engineering student specializing in AI & Machine Learning. I build approachable software, and enjoy turning complex ideas into useful tools.
 
 ## Current focus
 
