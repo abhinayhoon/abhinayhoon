@@ -26,7 +26,7 @@ i am working through a deliberate path: Python and problem solving → data stru
 
 ## Open source
 
-i am interested in beginner-friendly documentation, test, and issue-triage contributions—especially in Python, developer tooling, and AI/ML education. if you maintain a project where a careful contributor can help, feel free to open an issue or reach out.
+i am interested in beginner-friendly documentation, test, and issue-triage contributions, especially in Python, developer tooling, and AI/ML education. if you maintain a project where a careful contributor can help, feel free to open an issue or reach out.
 
 ## Connect
 
