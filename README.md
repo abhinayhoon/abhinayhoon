@@ -30,7 +30,7 @@ i am interested in beginner-friendly documentation, test, and issue-triage contr
 
 ## Connect
 
-- [Portfolio](https://myportfolio-delta-ecru-62.vercel.app)
+- [Portfolio](abhinayhai.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/abhinayhai/)
 - [Email](mailto:maiabhinayhoon@gmail.com)
 
