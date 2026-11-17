@@ -1,39 +1,40 @@
+![Abhinay // System Online](assets/terminal-hero.svg)
+
 # Abhinay Pratap Singh
 
-computer science & engineering student specializing in AI & machine learning. i build approachable software, and enjoy turning complex ideas into useful tools.
+I’m a B.Tech Computer Science and Engineering student specializing in AI and Machine Learning. I build Python tools that make unexpected data easier to inspect, and web projects that make technical ideas easier to explore.
 
-## Current focus
-
-- strengthening python, data structures, and software engineering fundamentals
-- building interactive learning tools and frontend experiences
-- developing practical foundations in machine learning and automation
-
-## Toolkit
-
-`Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
+**Current focus** · Data structures, machine learning fundamentals, and small automation tools with tests and clear documentation.
 
 ## Selected work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [SignalCheck](https://github.com/abhinayhoon/signalcheck) | a compact ML data-contract checker that catches schema breaks and input drift before inference. | Python, CLI, tests, GitHub Actions |
-| [Python Roadmap](https://github.com/abhinayhoon/PythonRoadmap) | an interactive, beginner-oriented Python curriculum with explanations, examples, and progress tracking. | HTML, CSS, JavaScript |
-| [Portfolio](https://github.com/abhinayhoon/myportfolio) | my personal site, built as an interactive frontend experience and deployed on Vercel. | HTML, CSS, JavaScript |
+### [SignalCheck](https://github.com/abhinayhoon/signalcheck)
+A Python CLI for checking data before model inference. It compares a candidate CSV with a reference CSV to flag schema changes, spikes in missing values, new categories, and shifts in numerical inputs. JSON output makes the results usable in scripts and CI.
 
-## Learning roadmap
+`Python` · `pytest` · `JSON CLI output`
 
-i am working through a deliberate path: Python and problem solving → data structures and software design → applied machine learning → production-minded projects. my [engineering log](ACTIVITY_SYSTEM.md) is a lightweight way to record work that actually happened, not a source of artificial activity.
+### [DisplaceOS](https://github.com/abhinayhoon/DisplaceOS-GheeKhatam)
+A role-based disaster-relief coordination prototype. Camp managers report needs, coordinators allocate stock, and field teams update deliveries. A local action queue lets field users sync queued updates after reconnecting.
 
-## Open source
+`TypeScript` · `Next.js` · `PostgreSQL` · `Prisma`
 
-i am interested in beginner-friendly documentation, test, and issue-triage contributions, especially in Python, developer tooling, and AI/ML education. if you maintain a project where a careful contributor can help, feel free to open an issue or reach out.
+### [Python Roadmap](https://github.com/abhinayhoon/PythonRoadmap)
+A self-paced Python curriculum with 30 lessons, searchable examples, and exercises. The static site keeps progress in the browser so beginners can pick up where they left off without creating an account.
+
+`HTML` · `CSS` · `JavaScript` · [Live site](https://abhinayhoon.github.io/PythonRoadmap/)
+
+## Toolkit
+
+- **Data and tooling** · Python, CSV, JSON, pytest
+- **Web and application development** · HTML, CSS, JavaScript, TypeScript, Next.js, PostgreSQL
+- **Engineering workflow** · Git, GitHub, GitHub Actions
+
+## Activity
+
+[GitHub contribution calendar](https://github.com/abhinayhoon#js-contribution-activity) · [Engineering log](ACTIVITY_SYSTEM.md) · [Public repositories](https://github.com/abhinayhoon?tab=repositories)
+
+I’m interested in contributing tests, documentation, and issue triage to Python tools and AI/ML learning projects. I aim to leave each project with a clear way to reproduce the result and enough context for the next contributor to pick it up.
 
 ## Connect
 
-- [Portfolio](abhinayhai.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/abhinayhai/)
-- [Email](mailto:maiabhinayhoon@gmail.com)
-
----
-
-i value clear commits, reproducible projects, and documentation that helps the next person get started.
+[Portfolio](https://abhinayhai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhinayhai/) · [Email](mailto:maiabhinayhoon@gmail.com)

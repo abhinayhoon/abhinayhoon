@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 324" width="960" height="324" role="img" aria-labelledby="title desc">
+  <title id="title">Abhinay // System Online</title>
+  <desc id="desc">An obsidian terminal banner with a green status line and a cyan trace connecting four nodes on a grid.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#253642" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101922"/>
+      <stop offset="1" stop-color="#080B0F"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="958" height="322" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="324" fill="#080B0F"/>
+    <rect width="960" height="62" fill="#10161D"/>
+    <path d="M0 62H960M0 263H960" stroke="#28333D"/>
+    <rect x="674" y="82" width="238" height="161" rx="10" fill="url(#panel)" stroke="#293843"/>
+    <rect x="690" y="97" width="206" height="131" fill="url(#grid)" opacity=".85"/>
+    <path d="M701 204H731L762 172H792L828 133H882" fill="none" stroke="#00D9FF" stroke-width="2"/>
+    <path d="M701 125H744M856 205H882" stroke="#465764"/>
+    <g fill="#080B0F" stroke="#00D9FF" stroke-width="2">
+      <circle cx="701" cy="204" r="4"/>
+      <circle cx="762" cy="172" r="5"/>
+      <circle cx="828" cy="133" r="5"/>
+      <circle cx="882" cy="133" r="4"/>
+    </g>
+    <circle cx="828" cy="133" r="12" fill="none" stroke="#00D9FF" opacity=".28"/>
+    <path d="M48 80V242" stroke="#273740"/>
+    <path d="M48 117V169" stroke="#00FF9C" stroke-width="2"/>
+    <circle cx="48" cy="31" r="5" fill="#00FF9C"/>
+    <g font-family="SFMono-Regular, Consolas, Liberation Mono, monospace">
+      <text x="65" y="38" fill="#E6EDF3" font-size="19">@abhinayhoon</text>
+      <text x="912" y="38" fill="#8B949E" font-size="19" text-anchor="end">~/profile</text>
+      <text x="75" y="161" fill="#E6EDF3" font-size="96" font-weight="700">ABHINAY</text>
+      <text x="77" y="214" fill="#00FF9C" font-size="34" font-weight="700">// SYSTEM ONLINE</text>
+      <text x="75" y="300" fill="#8B949E" font-size="23">COMPUTER SCIENCE / AI &amp; ML</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="958" height="322" rx="20" fill="none" stroke="#34414D" stroke-width="2"/>
+</svg>
